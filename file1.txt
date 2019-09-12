@@ -1,3 +1,9 @@
 Devops training
+<<<<<<< .merge_file_g9kybs
 adding line
 added line 
+=======
+added second line to hotfix
+modify
+added line
+>>>>>>> .merge_file_6hcabs
